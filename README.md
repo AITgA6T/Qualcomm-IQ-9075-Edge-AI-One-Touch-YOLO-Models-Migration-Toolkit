@@ -37,14 +37,7 @@ Purple Phase: Perform real-time inference and display the results using a USB ca
 
 Black Phase: Convert the PyTorch model to TensorRT on the NVIDIA Jetson Orin NX, and evaluate its benchmark to compare with the IQ-9075
 
-![Architecture Diagram](assets/architecture.png)
-
-## Results
-
-<img width="1243" height="418" alt="image" src="https://github.com/user-attachments/assets/b7bfd19b-a97e-4fdf-9ccd-7c01f45c21c4" />
-
-<img width="1242" height="436" alt="image" src="https://github.com/user-attachments/assets/3746c8f6-ec29-40ee-8c11-a27cc6446021" />
-
+<img width="1843" height="742" alt="image" src="https://github.com/user-attachments/assets/c3c587c1-bbb1-4066-a8d6-edc51a8c67a6" />
 
 ## Demo
 https://github.com/user-attachments/assets/d5ef2402-10a8-4f7a-84e2-c983b28fdaaf
