@@ -1,4 +1,4 @@
-# Qualcomm IQ-9075 Edge AI One-Touch YOLO Models Migration Toolkit
+<img width="1843" height="742" alt="image" src="https://github.com/user-attachments/assets/9835287a-e929-4f8e-8da6-dd097aed9635" /># Qualcomm IQ-9075 Edge AI One-Touch YOLO Models Migration Toolkit
 
 ## Advantages of IQ-9075
 
@@ -37,13 +37,13 @@ Purple Phase: Perform real-time inference and display the results using a USB ca
 
 Black Phase: Convert the PyTorch model to TensorRT on the NVIDIA Jetson Orin NX, and evaluate its benchmark to compare with the IQ-9075
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](https://github.com/AITgA6T/Qualcomm-IQ-9075-Edge-AI-One-Touch-YOLO-Models-Migration-Toolkit/blob/main/assets/architecture.png?raw=true)
 
 ## Results
 
-![Self-built Dataset Benchmark: Surgical Instruments Detection](assets/results-surgical-instruments.png)
+![Self-built Dataset Benchmark: Surgical Instruments Detection](https://github.com/AITgA6T/Qualcomm-IQ-9075-Edge-AI-One-Touch-YOLO-Models-Migration-Toolkit/blob/main/assets/results-surgical-instruments.png?raw=true)
 
-![Self-built Dataset Benchmark: Food Detection](assets/results-food-detection.png)
+![Self-built Dataset Benchmark: Food Detection](https://github.com/AITgA6T/Qualcomm-IQ-9075-Edge-AI-One-Touch-YOLO-Models-Migration-Toolkit/blob/main/assets/results-food-detection.png?raw=true)
 
 ## Demo
 https://github.com/user-attachments/assets/d5ef2402-10a8-4f7a-84e2-c983b28fdaaf
