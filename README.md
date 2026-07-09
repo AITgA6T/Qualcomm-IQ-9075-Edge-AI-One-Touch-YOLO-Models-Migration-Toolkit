@@ -1,3 +1,5 @@
+# Qualcomm IQ-9075 Edge AI One-Touch YOLO Models Migration Toolkit
+
 ## Advantages of IQ-9075
 
 1. IQ-9075 can provide up to 200 sparse TOPS of AI computing power and supports GPU and DSP accelerated computing
@@ -35,7 +37,9 @@ Purple Phase: Perform real-time inference and display the results using a USB ca
 
 Black Phase: Convert the PyTorch model to TensorRT on the NVIDIA Jetson Orin NX, and evaluate its benchmark to compare with the IQ-9075
 
-<img width="1843" height="742" alt="image" src="https://github.com/user-attachments/assets/9835287a-e929-4f8e-8da6-dd097aed9635" /># Qualcomm IQ-9075 Edge AI One-Touch YOLO Models Migration Toolkit
+<img width="1843" height="742" alt="image" src="https://github.com/user-attachments/assets/9835287a-e929-4f8e-8da6-dd097aed9635" />
+
+![Architecture Diagram](https://github.com/AITgA6T/Qualcomm-IQ-9075-Edge-AI-One-Touch-YOLO-Models-Migration-Toolkit/blob/main/assets/architecture.png?raw=true)
 
 
 ## Results
