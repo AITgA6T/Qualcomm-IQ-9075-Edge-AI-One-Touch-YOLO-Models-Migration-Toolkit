@@ -41,9 +41,10 @@ Black Phase: Convert the PyTorch model to TensorRT on the NVIDIA Jetson Orin NX,
 
 ## Results
 
-![Self-built Dataset Benchmark: Surgical Instruments Detection](assets/results-surgical-instruments_1.png)
+<img width="1243" height="418" alt="image" src="https://github.com/user-attachments/assets/b7bfd19b-a97e-4fdf-9ccd-7c01f45c21c4" />
 
-![Self-built Dataset Benchmark: Food Detection](assets/results-food-detection.png)
+<img width="1242" height="436" alt="image" src="https://github.com/user-attachments/assets/3746c8f6-ec29-40ee-8c11-a27cc6446021" />
+
 
 ## Demo
 https://github.com/user-attachments/assets/d5ef2402-10a8-4f7a-84e2-c983b28fdaaf
